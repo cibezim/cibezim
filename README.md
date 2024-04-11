@@ -5,11 +5,6 @@
 
 - ⚡ Fun fact **I love to travel**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/chukwumaibezim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chukwumaibezim" height="30" width="40" /></a>
-</p>
-
 <h3>Github Stats:</h3>
 
 ![Chukwuma's GitHub stats](https://github-readme-stats.vercel.app/api?username=cibezim&show_icons=true&theme=swift)
@@ -32,4 +27,10 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/chukwumaibezim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chukwumaibezim" height="30" width="40" /></a>
+</p>
+
 
