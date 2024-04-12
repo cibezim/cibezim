@@ -6,12 +6,12 @@
 
 - ⚡ Fun fact **I love to travel**
 
-<h3>Github Stats:</h3>
+<h3>💻 Github Stats:</h3>
 
 ![Chukwuma's GitHub stats](https://github-readme-stats.vercel.app/api?username=cibezim&show_icons=true&theme=swift)
 <img align="right" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cibezim&layout=compact" />
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">💻 Tech StackLanguages and Tools:</h3>
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
