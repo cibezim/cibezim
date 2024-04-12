@@ -9,7 +9,7 @@ Software Engineer sharing about my journey and learnings in tech
 <h3>Github Stats:</h3>
 
 ![Chukwuma's GitHub stats](https://github-readme-stats.vercel.app/api?username=cibezim&show_icons=true&theme=swift)
-<img align="right" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cibezim&layout=compact" />
+<img align="right" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cibezim&layout=compact" />
 
 <h3 align="left">Languages and Tools:</h3>
 
