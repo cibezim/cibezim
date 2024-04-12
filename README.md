@@ -1,7 +1,7 @@
 # Hi 👋 I'm Chukwuma 
 
 ---
-👨🏾‍💻 **Software Engineer** sharing my journey and learnings in tech.
+- 👨🏾‍💻 **Software Engineer** sharing my journey and learnings in tech.
 
 - 🔭 Currently building a [Netflix Clone](https://cibezimstreamverse.netlify.app/) using JavaScript, React, HTML, and CSS. Adding Java and Spring Boot to the project!
 
