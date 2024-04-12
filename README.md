@@ -1,6 +1,6 @@
 # Hi 👋 I'm Chukwuma 
 
-Software Engineer sharing about my journey and learnings in tech
+- Software Engineer sharing about my journey and learnings in tech
 
 - 🔭 I’m currently working on [Netflix Clone](https://cibezimstreamverse.netlify.app/)
 
