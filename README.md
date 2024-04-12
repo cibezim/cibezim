@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Chukwuma Ibezim</h1>
-<h3 align="center">A passionate full stack developer from Brooklyn, NY</h3>
+<h1 align="center">Hi 👋, I'm Chukwuma /h1>
+<h3 align="center">Software Engineer sharing about my journey and learnings in tech</h3>
 
 - 🔭 I’m currently working on [Netflix Clone](https://cibezimstreamverse.netlify.app/)
 
