@@ -1,4 +1,4 @@
-# Hi 👋, I'm Chukwuma 
+# Hi 👋 I'm Chukwuma 
 
 Software Engineer sharing about my journey and learnings in tech
 
