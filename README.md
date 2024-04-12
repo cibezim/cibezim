@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Chukwuma /h1>
-<h3 align="center">Software Engineer sharing about my journey and learnings in tech</h3>
+#Hi 👋, I'm Chukwuma 
+
+Software Engineer sharing about my journey and learnings in tech
 
 - 🔭 I’m currently working on [Netflix Clone](https://cibezimstreamverse.netlify.app/)
 
